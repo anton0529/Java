@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CarManager1/src"/>
+	<classpathentry kind="src" path="HelooWorld/src"/>
+	<classpathentry kind="output" path="CarManager1/out/production/CarManager1"/>
+</classpath>
